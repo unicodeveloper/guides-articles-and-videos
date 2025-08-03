@@ -3,6 +3,30 @@
 ## Overview
 This document contains a comprehensive collection of video content featuring Prosper Otemuyiwa (@unicodeveloper), a seasoned developer advocate, community leader, and open source contributor. The videos span various conferences, meetups, and educational platforms from 2017-2024.
 
+## Technical Videos
+
+1. [Scale your apps globally in seconds!](https://www.youtube.com/shorts/M2KZwoeQxhs)
+1. [How to Move Your App from Fly.io to Railway](https://www.youtube.com/shorts/P6-axS1K4bM)
+2. [How to Migrate your App from Render to Railway](https://www.youtube.com/shorts/soQnVbXLZOU)
+3. [Cron Jobs on Railway – The Best Way to Schedule Tasks! ](https://www.youtube.com/shorts/Pl7ec2ywZfY)
+4. [Setting up Pre-deploy Commands](https://www.youtube.com/shorts/Y2IY0qGEFho)
+5. [Observability at your fingertips](https://www.youtube.com/shorts/WIfv7UOYWeE)
+6. [How to use Webhooks on Railway](https://www.youtube.com/watch?v=vj2-izNx0oY)
+7. [Introducing Railway Functions - The fastest way to deploy your code](https://www.youtube.com/watch?v=Q23LPOvtihg)
+8. [$1,000,000 for Open Source? You Won’t Believe This!](https://www.youtube.com/shorts/VsmIN3A5pHc)
+9. [Manage your environment variables and secrets on Railway](https://www.youtube.com/shorts/f91MUenGEkc)
+10. [$1,000,000 for Open Source? You Won’t Believe This!](https://www.youtube.com/shorts/VsmIN3A5pHc)
+11. [Manage your environment variables and secrets on Railway](https://www.youtube.com/shorts/f91MUenGEkc)
+12. [Configure Usage Limits and Control your Bill!](https://www.youtube.com/shorts/E-g9yGmo__g)
+13. [Persist Data to Services using Volumes](https://www.youtube.com/shorts/dSLVfXYfaY8)
+14. [Scale your app quickly by setting up Replicas on Railway](https://www.youtube.com/shorts/msDT4KZux4s)
+15. [Persist Data to Services using Volumes](https://www.youtube.com/shorts/dSLVfXYfaY8)
+16. [How to deploy a Laravel App in under 2 mins](https://www.youtube.com/watch?v=b7tzlNiQo8M)
+17. [How to backup and restore your Database - Easy, Simple and Fast](https://www.youtube.com/watch?v=hQVZ9waYnYI)
+18. [How to Deploy Java Apps to the Cloud in under 2 mins.](https://www.youtube.com/watch?v=WO_YoEx_siE)
+19. [How to Deploy Deno Apps in Under 1 Minute — With Zero Setup](https://www.youtube.com/watch?v=btr5c2tfKbU)
+
+
 ## YouTube Playlist: "My Talks"
 **Playlist URL**: https://www.youtube.com/playlist?list=PL09Bd0cbmz3QAh8CUCfV8nwoJWcjLfZM6  
 **Total Videos**: 23  

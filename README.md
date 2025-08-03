@@ -88,7 +88,7 @@ Personal insights, career advice, and technical commentary on industry trends.
 ## Impact & Reach
 
 - **23+ Conference Videos** spanning 2017-2024
-- **400+ Technical Articles** across major developer platforms
+- **250+ Technical Articles** across major developer platforms
 - **International Speaker** at premier developer conferences
 - **Open Source Contributor** and community leader
 - **Developer Advocate** with focus on productivity and modern web technologies

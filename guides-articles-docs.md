@@ -108,23 +108,41 @@
 
 ## Medium & Apollo GraphQL
 [31 DAYS OF MARCH MEDIA MADNESS](https://medium.com/@unicodeveloper/31-days-of-march-media-madness-bcce17788334)
+
 [WHAT ARE YOU ASKING FOR?](https://medium.com/@unicodeveloper/what-are-you-asking-for-8dc82aff7340)
+
 [WHO IS SPEAKING ON YOUR BEHALF?](https://medium.com/@unicodeveloper/who-is-speaking-on-your-behalf-ece588689d32)
+
 [MICROSOFT ENGAGE NIGERIA DEVELOPER COMMUNITY TO BUILD CLOUD TECHNICAL SKILLS](https://medium.com/@unicodeveloper/microsoft-engage-nigeria-developer-community-to-build-cloud-technical-skills-cf47b14729f8)
+
 [MEET WITH MICROSOFT AZURE EXPERTS AT 2019 FORLOOP SUMMIT](https://medium.com/@unicodeveloper/meet-with-microsoft-azure-experts-at-2019-forloop-summit-eb76d5d7ac19)
+
 [2018: STATE OF THE FORLOOPAFRICA REPORT](https://medium.com/@unicodeveloper/2018-state-of-the-forloopafrica-report-3195ce12b7c4)
+
 [2018 IN REVIEW: SHATTERING EXPECTATIONS](https://medium.com/@unicodeveloper/2018-in-review-shattering-expectations-9418f2d720cc)
+
 [LAYERING GRAPHQL ON TOP OF REST](https://medium.com/@unicodeveloper/layering-graphql-on-top-of-rest-569c915083ad)
+
 [NEW! GRAPHQL GLOSSARY & FAQ GUIDE](https://medium.com/@unicodeveloper/graphql-glossary-faq-guide-7523cf7d16ec)
+
 [File Uploads with Apollo Server 2.0](https://medium.com/apollo-stack/file-uploads-with-apollo-server-2-0-5db2f3f60675)
+
 [Automatic Persisted Queries and CDN caching with Apollo Server 2.0](https://medium.com/apollo-stack/automatic-persisted-queries-and-cdn-caching-with-apollo-server-2-0-bf42b3a313de)
+
 [The Birth of Developer Avocados 🥑](https://medium.com/@unicodeveloper/the-birth-of-developer-avocados-61e4ac235033)
+
 [2017 In Review: The gods Must Be Crazy](https://medium.com/@unicodeveloper/2017-in-review-the-gods-must-be-crazy-1e8d3af72e5b)
+
 [Deploying Apollo GQL API to Zeit](https://medium.com/manifoldco/deploying-apollo-gql-api-to-zeit-bad00f128cf9)
+
 [Add Logging to your App on Zeit’s Now in 5 Minutes](https://medium.com/manifoldco/add-logging-to-your-app-on-zeits-now-in-5-minutes-24db3d787505)
+
 [The Glory & Gory of A Remote Worker](https://medium.com/devcenter/the-glory-gory-of-a-remote-worker-74840f070b61)
+
 [Human Beings are Open Source Projects](https://medium.com/hackernoon/human-beings-are-open-source-projects-cbbcd5d79f1a)
+
 [Jon Skeet — The Chuck Norris of Programming](https://medium.com/free-code-camp/jon-skeet-the-chuck-norris-of-programming-ee5781c7e18a)
+
 [A Tribute to Michael Ozoemena](https://medium.com/@unicodeveloper/a-tribute-to-michael-ozoemena-56908aa32892)
 
 ## Cloudinary
@@ -233,21 +251,36 @@
 
 ## Goodheads.io (Defunct - Still trying to get them back up)
 [GET STARTED WITH ADONISJS; AN MVC FRAMEWORK FOR NODE.JS](https://goodheads.io/blog/get-started-with-adonisjs-an-mvc-framework-for-node-js)
+
 [BEST SITES TO BUY TWITTER FOLLOWERS ON THE MARKET](https://goodheads.io/blog/best-sites-to-buy-twitter-followers-on-the-market)
+
 [HOW TO BUILD YOUR OWN YOUTUBE – PART 10](https://goodheads.io/blog/how-to-build-your-own-youtube-part-10)
+
 [HOW TO BUILD YOUR OWN YOUTUBE – PART 9](https://goodheads.io/blog/how-to-build-your-own-youtube-part-9)
+
 [HOW TO BUILD YOUR OWN YOUTUBE – PART 8](https://goodheads.io/blog/how-to-build-your-own-youtube-part-8)
+
 [HOW TO GROW SUBSCRIBERS FOR YOUR YOUTUBE CHANNEL](https://goodheads.io/blog/how-to-grow-subscribers-for-your-youtube-channel)
+
 [HOW TO BUILD YOUR OWN YOUTUBE – PART 6](https://goodheads.io/blog/how-to-build-your-own-youtube-part-6)
+
 [INTRODUCING LARAVEL PASSWORD V1.0](https://goodheads.io/blog/introducing-laravel-password-v1-0)
+
 [HOW TO BUILD YOUR OWN YOUTUBE – PART 5](https://goodheads.io/blog/how-to-build-your-own-youtube-part-5)
+
 [HOW TO BUILD YOUR OWN YOUTUBE – PART 4](https://goodheads.io/blog/how-to-build-your-own-youtube-part-4)
-1[HOW TO BUILD YOUR OWN YOUTUBE – PART 3](https://goodheads.io/blog/how-to-build-your-own-youtube-part-3)
-1[CREATING YOUR OWN RSPEC MATCHERS](https://goodheads.io/blog/creating-your-own-rspec-matchers)
-1[RUBY ON STEROIDS(DSLS): THE POWERFUL SPELL CALLED DSL](https://goodheads.io/blog/ruby-on-steroids-dsls-the-powerful-spell-called-dsl)
-1[RUBY ON STEROIDS: THE MAGIC OF METAPROGRAMMING – METHOD SPELLS](https://goodheads.io/blog/ruby-on-steroids-the-magic-of-metaprogramming-method-spells)
-1[RUBY ON STEROIDS: THE MAGIC OF METAPROGRAMMING – FELLOWSHIP OF SPELLS](https://goodheads.io/blog/ruby-on-steroids-the-magic-of-metaprogramming-fellowship-of-spells)
-1[HOW TO DELEGATE LIKE A BOSS](https://goodheads.io/blog/how-to-delegate-like-a-boss)
+
+[HOW TO BUILD YOUR OWN YOUTUBE – PART 3](https://goodheads.io/blog/how-to-build-your-own-youtube-part-3)
+
+[CREATING YOUR OWN RSPEC MATCHERS](https://goodheads.io/blog/creating-your-own-rspec-matchers)
+
+[RUBY ON STEROIDS(DSLS): THE POWERFUL SPELL CALLED DSL](https://goodheads.io/blog/ruby-on-steroids-dsls-the-powerful-spell-called-dsl)
+
+[RUBY ON STEROIDS: THE MAGIC OF METAPROGRAMMING – METHOD SPELLS](https://goodheads.io/blog/ruby-on-steroids-the-magic-of-metaprogramming-method-spells)
+
+[RUBY ON STEROIDS: THE MAGIC OF METAPROGRAMMING – FELLOWSHIP OF SPELLS](https://goodheads.io/blog/ruby-on-steroids-the-magic-of-metaprogramming-fellowship-of-spells)
+
+[HOW TO DELEGATE LIKE A BOSS](https://goodheads.io/blog/how-to-delegate-like-a-boss)
 
 ## Auth0 
 [Building Ambitious Apps with MDX](https://auth0.com/blog/how-to-build-an-app-with-react-and-mdx/)

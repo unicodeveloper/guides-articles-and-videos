@@ -3,59 +3,107 @@
 ## Railway Documentation, Guides & Articles
 
 [Speed Isn't Just About Code, It's About Where That Code Runs](https://blog.railway.com/p/railway-for-frontend)
+
 [Deploy a Fastify App](https://docs.railway.com/guides/fastify)
+
 [Deploy an Express App](https://docs.railway.com/guides/express)
+
 [Deploy a NestJS App](https://docs.railway.com/guides/nest)
+
 [Deploy a Sails App](https://docs.railway.com/guides/sails)
+
 [Deploy a React App](https://docs.railway.com/guides/react)
+
 [Deploy a Remix App](https://docs.railway.com/guides/remix)
+
 [Deploy a Vue App](https://docs.railway.com/guides/vue)
+
 [Deploy a Nuxt App](https://docs.railway.com/guides/nuxt)
+
 [Deploy an Astro App](https://docs.railway.com/guides/astro)
+
 [Deploy a SvelteKit App](https://docs.railway.com/guides/sveltekit)
+
 [Deploy a SolidJS App](https://docs.railway.com/guides/solid)
+
 [Deploy an Angular App](https://docs.railway.com/guides/angular)
+
 [Deploy a FastAPI App](https://docs.railway.com/guides/fastapi)
+
 [Deploy a Flask App](https://docs.railway.com/guides/flask)
+
 [Deploy a Django App](https://docs.railway.com/guides/django)
+
 [Deploy a Laravel App](https://docs.railway.com/guides/laravel)
+
 [Deploy a Symfony App](https://docs.railway.com/guides/symfony)
+
 [Deploy a Spring Boot App](https://docs.railway.com/guides/spring-boot)
+
 [Deploy a Scala Play App](https://docs.railway.com/guides/play)
+
 [Deploy a Beego App](https://docs.railway.com/guides/beego)
+
 [Deploy a Gin App](https://docs.railway.com/guides/gin)
+
 [Deploy a Ruby on Rails App](https://docs.railway.com/guides/rails)
+
 [Deploy a Clojure Luminus App](https://docs.railway.com/guides/luminus)
+
 [Deploy a Phoenix App](https://docs.railway.com/guides/phoenix)
+
 [Deploy a Phoenix App with Distillery](https://docs.railway.com/guides/phoenix-distillery)
+
 [Deploy a Rust Axum App](https://docs.railway.com/guides/axum)
+
 [Deploy a Rust Rocket App](https://docs.railway.com/guides/rocket)
 
 ## Novu Guides & Articles
 [Novu docs (_A lot has changed now since I left_)](https://docs.novu.co/platform/overview)
+
 [How to build dev.to Community Digest with Novu](https://novu.co/blog/how-to-build-dev-to-community-digest-with-novu/)
+
 [How to build dev.to In-App Notification System in 20 minutes](https://novu.co/blog/how-to-build-dev-to-in-app-notification-system-in-20-minutes/)
+
 [The Ultimate Guide to Laravel Reverb: Real-Time Notifications](https://novu.co/blog/the-ultimate-guide-to-laravel-reverb-real-time-notifications/)
+
 [The Ultimate Guide to Laravel Reverb](https://novu.co/blog/the-ultimate-guide-to-laravel-reverb/)
+
 [Building an Investor List App with Novu and Supabase](https://novu.co/blog/building-an-investor-list-app-with-novu-and-supabase/)
+
 [Implementing Internationalization in Apps: How to Translate Notifications](https://novu.co/blog/implementing-internationalization-in-apps-how-to-translate-notifications/)
+
 [A Code-First Approach to Managing Notification Workflows](https://novu.co/blog/a-code-first-approach-to-managing-notification-workflows/)
+
 [Translation Management Improvements, Digest Filters, Deprecation of Notifire Packages and more](https://novu.co/blog/translation-management-improvements-digest-filters-deprecation-of-notifire-packages-and-more/)
+
 [Translate your App’s Notification content to different languages using i18n.](https://novu.co/blog/translate-your-apps-notification-content-to-different-languages-using-i18n/)
-1[Template Store, Demo SMS Provider, Notification Templates Renaming and more](https://novu.co/blog/whats-new-in-novu-0-16-0/)
-1[Scheduled Digest, In-App Onboarding playground, Slack Webhook URL managed flow and more](https://novu.co/blog/whats-new-in-novu-0-15-0/)
-1[Performance optimization, Redesigned Workflow UI Editor, Data expiration, Headless Notification Center and more!](https://novu.co/blog/performance-optimization-redesigned-workflow-ui-editor-data-expiration-headless-notification-center-and-more/)
-1[Better onboarding experience, Digest Workflow Playground, Seen/Read Step Filter, SMS provider integration and more!](https://novu.co/blog/better-onboarding-experience-digest-workflow-playground-seen-read-step-filter-sms-provider-integration-and-more/)
+
+[Template Store, Demo SMS Provider, Notification Templates Renaming and more](https://novu.co/blog/whats-new-in-novu-0-16-0/)
+
+[Scheduled Digest, In-App Onboarding playground, Slack Webhook URL managed flow and more](https://novu.co/blog/whats-new-in-novu-0-15-0/)
+
+[Performance optimization, Redesigned Workflow UI Editor, Data expiration, Headless Notification Center and more!](https://novu.co/blog/performance-optimization-redesigned-workflow-ui-editor-data-expiration-headless-notification-center-and-more/)
+
+[Better onboarding experience, Digest Workflow Playground, Seen/Read Step Filter, SMS provider integration and more!](https://novu.co/blog/better-onboarding-experience-digest-workflow-playground-seen-read-step-filter-sms-provider-integration-and-more/)
 
 ## Sourcegraph
 [Simple & Advanced Search in VS Code with Sourcegraph](https://dev.to/sourcegraph/simple-advanced-search-in-vs-code-with-sourcegraph-29if)
+
 [8 Sourcegraph Search Query Features You Should Know About](https://dev.to/sourcegraph/8-sourcegraph-search-query-features-you-should-know-about-1gmc)
+
 [15 Days Of Code Search](https://dev.to/sourcegraph/15-days-of-code-search-1o47)
+
 [How to find log4j vulnerable dependencies quickly across your codebase](https://dev.to/sourcegraph/how-to-find-log4j-vulnerable-dependencies-quickly-across-your-codebase-32oj)
+
 [How to use Search Contexts on Sourcegraph](https://dev.to/sourcegraph/how-to-use-search-contexts-on-sourcegraph-138n)
+
 [How to Learn React API & Concepts with Sourcegraph Code Search](https://dev.to/sourcegraph/how-to-learn-react-api-concepts-with-sourcegraph-code-search-3kn6)
+
 [The Developer Advocate ToolKit: Software Tools You Need To Move Fast](https://dev.to/sourcegraph/the-developer-advocate-toolkit-software-tools-you-need-to-move-fast-95g)
+
 [15 Developer Tools to Make You Super Productive](https://dev.to/sourcegraph/15-developer-tools-to-make-you-super-productive-2g0a)
+
 [Sourcegraph Code Search - The Developers’ Treasure Trove](https://dev.to/sourcegraph/sourcegraph-code-search-the-developers-treasure-trove-3ach)
 
 ## Medium & Apollo GraphQL
@@ -69,15 +117,15 @@
 [LAYERING GRAPHQL ON TOP OF REST](https://medium.com/@unicodeveloper/layering-graphql-on-top-of-rest-569c915083ad)
 [NEW! GRAPHQL GLOSSARY & FAQ GUIDE](https://medium.com/@unicodeveloper/graphql-glossary-faq-guide-7523cf7d16ec)
 [File Uploads with Apollo Server 2.0](https://medium.com/apollo-stack/file-uploads-with-apollo-server-2-0-5db2f3f60675)
-1[Automatic Persisted Queries and CDN caching with Apollo Server 2.0](https://medium.com/apollo-stack/automatic-persisted-queries-and-cdn-caching-with-apollo-server-2-0-bf42b3a313de)
-1[The Birth of Developer Avocados 🥑](https://medium.com/@unicodeveloper/the-birth-of-developer-avocados-61e4ac235033)
-1[2017 In Review: The gods Must Be Crazy](https://medium.com/@unicodeveloper/2017-in-review-the-gods-must-be-crazy-1e8d3af72e5b)
-1[Deploying Apollo GQL API to Zeit](https://medium.com/manifoldco/deploying-apollo-gql-api-to-zeit-bad00f128cf9)
-1[Add Logging to your App on Zeit’s Now in 5 Minutes](https://medium.com/manifoldco/add-logging-to-your-app-on-zeits-now-in-5-minutes-24db3d787505)
-1[The Glory & Gory of A Remote Worker](https://medium.com/devcenter/the-glory-gory-of-a-remote-worker-74840f070b61)
-1[Human Beings are Open Source Projects](https://medium.com/hackernoon/human-beings-are-open-source-projects-cbbcd5d79f1a)
-1[Jon Skeet — The Chuck Norris of Programming](https://medium.com/free-code-camp/jon-skeet-the-chuck-norris-of-programming-ee5781c7e18a)
-1[A Tribute to Michael Ozoemena](https://medium.com/@unicodeveloper/a-tribute-to-michael-ozoemena-56908aa32892)
+[Automatic Persisted Queries and CDN caching with Apollo Server 2.0](https://medium.com/apollo-stack/automatic-persisted-queries-and-cdn-caching-with-apollo-server-2-0-bf42b3a313de)
+[The Birth of Developer Avocados 🥑](https://medium.com/@unicodeveloper/the-birth-of-developer-avocados-61e4ac235033)
+[2017 In Review: The gods Must Be Crazy](https://medium.com/@unicodeveloper/2017-in-review-the-gods-must-be-crazy-1e8d3af72e5b)
+[Deploying Apollo GQL API to Zeit](https://medium.com/manifoldco/deploying-apollo-gql-api-to-zeit-bad00f128cf9)
+[Add Logging to your App on Zeit’s Now in 5 Minutes](https://medium.com/manifoldco/add-logging-to-your-app-on-zeits-now-in-5-minutes-24db3d787505)
+[The Glory & Gory of A Remote Worker](https://medium.com/devcenter/the-glory-gory-of-a-remote-worker-74840f070b61)
+[Human Beings are Open Source Projects](https://medium.com/hackernoon/human-beings-are-open-source-projects-cbbcd5d79f1a)
+[Jon Skeet — The Chuck Norris of Programming](https://medium.com/free-code-camp/jon-skeet-the-chuck-norris-of-programming-ee5781c7e18a)
+[A Tribute to Michael Ozoemena](https://medium.com/@unicodeveloper/a-tribute-to-michael-ozoemena-56908aa32892)
 
 ## Cloudinary
 [How to Build an Online Customizable-Anything Product Experience Using Cloudinary](https://cloudinary.com/blog/how-to-build-an-online-customizable-anything-product-experience)
@@ -89,26 +137,26 @@
 [Auto-Completing the Upload Code of Media Files with GitHub Copilot](https://cloudinary.com/blog/auto_completing_the_upload_code_of_media_files_with_github_copilot)
 [Overlaying Glasses or Masks on Avatars with Vue.js and Cloudinary](https://cloudinary.com/blog/overlaying_glasses_or_masks_on_avatars_with_vue_js_and_cloudinary)
 [Muted Videos and Subtitles](https://cloudinary.com/blog/muted_videos_and_subtitles)
-1[Video Uploads with Cloudinary](https://cloudinary.com/blog/video_uploads_with_cloudinary)
-1[Compressing, Resizing, and Optimizing Videos in Laravel](https://cloudinary.com/blog/compressing_resizing_and_optimizing_videos_in_laravel)
-1[How to Build an Enhanced Gravatar Service, Part 2](https://cloudinary.com/blog/how_to_build_an_enhanced_gravatar_service_part_2)
-1[How to Build an Enhanced Gravatar Service, Part 1](https://cloudinary.com/blog/how_to_build_an_enhanced_gravatar_service_part_1)
-1[Associating Media Files with Laravel's Eloquent Models](https://cloudinary.com/blog/associating_media_files_with_laravels_eloquent_models)
-1[Adding a 360-Degree Product Viewer to Your E-Commerce Site with Cloudinary](https://cloudinary.com/blog/adding_a_360_degree_product_viewer_to_your_e_commerce_site_with_cloudinary)
-1[Compressing, Resizing, and Optimizing Images in Laravel](https://cloudinary.com/blog/compressing_resizing_and_optimizing_images_in_laravel)
-1[The Pros and Cons of JPEG 2000 and Other Common Image Formats](https://cloudinary.com/blog/the_pros_and_cons_of_jpeg_2000_and_other_common_image_formats)
-1[Automating File Upload and Sharing](https://cloudinary.com/blog/automating_file_upload_and_sharing)
-20. [Node.js File Upload to a Local Server or to the Cloud](https://cloudinary.com/blog/node_js_file_upload_to_a_local_server_or_to_the_cloud)
-2[Uploading PHP Files and Rich Media the Easy Way](https://cloudinary.com/blog/uploading_php_files_and_rich_media_the_easy_way)
-2[Laravel File Upload to a Local Server or to the Cloud](https://cloudinary.com/blog/laravel_file_upload_to_a_local_server_or_to_the_cloud)
-2[Introducing Cloudinary's New Laravel SDK](https://cloudinary.com/blog/introducing_cloudinarys_new_laravel_sdk)
-2[Python Image Processing, Compression, and Resizing](https://cloudinary.com/blog/python_image_processing_compression_and_resizing)
-2[Compressing, Resizing, and Optimizing PHP Images](https://cloudinary.com/blog/compressing_resizing_and_optimizing_php_images)
-2[Uploading Vue Files and Rich Media in Two Easy Steps](https://cloudinary.com/blog/uploading_vue_files_and_rich_media_in_two_easy_steps)
-2[JavaScript File Upload in Two Simple Steps](https://cloudinary.com/blog/javascript_file_upload_in_two_simple_steps)
-2[Ultimate HTML5 Video-Player Showdown: 12 Players Compared](https://cloudinary.com/blog/ultimate_html5_video_player_showdown_12_players_compared)
-2[How to Upload Images in Angular](https://cloudinary.com/blog/how_to_upload_images_in_angular)
-30. [DAM for Developers: Asset Metadata](https://cloudinary.com/blog/dam_for_developers_asset_metadata)
+[Video Uploads with Cloudinary](https://cloudinary.com/blog/video_uploads_with_cloudinary)
+[Compressing, Resizing, and Optimizing Videos in Laravel](https://cloudinary.com/blog/compressing_resizing_and_optimizing_videos_in_laravel)
+[How to Build an Enhanced Gravatar Service, Part 2](https://cloudinary.com/blog/how_to_build_an_enhanced_gravatar_service_part_2)
+[How to Build an Enhanced Gravatar Service, Part 1](https://cloudinary.com/blog/how_to_build_an_enhanced_gravatar_service_part_1)
+[Associating Media Files with Laravel's Eloquent Models](https://cloudinary.com/blog/associating_media_files_with_laravels_eloquent_models)
+[Adding a 360-Degree Product Viewer to Your E-Commerce Site with Cloudinary](https://cloudinary.com/blog/adding_a_360_degree_product_viewer_to_your_e_commerce_site_with_cloudinary)
+[Compressing, Resizing, and Optimizing Images in Laravel](https://cloudinary.com/blog/compressing_resizing_and_optimizing_images_in_laravel)
+[The Pros and Cons of JPEG 2000 and Other Common Image Formats](https://cloudinary.com/blog/the_pros_and_cons_of_jpeg_2000_and_other_common_image_formats)
+[Automating File Upload and Sharing](https://cloudinary.com/blog/automating_file_upload_and_sharing)
+[Node.js File Upload to a Local Server or to the Cloud](https://cloudinary.com/blog/node_js_file_upload_to_a_local_server_or_to_the_cloud)
+[Uploading PHP Files and Rich Media the Easy Way](https://cloudinary.com/blog/uploading_php_files_and_rich_media_the_easy_way)
+[Laravel File Upload to a Local Server or to the Cloud](https://cloudinary.com/blog/laravel_file_upload_to_a_local_server_or_to_the_cloud)
+[Introducing Cloudinary's New Laravel SDK](https://cloudinary.com/blog/introducing_cloudinarys_new_laravel_sdk)
+[Python Image Processing, Compression, and Resizing](https://cloudinary.com/blog/python_image_processing_compression_and_resizing)
+[Compressing, Resizing, and Optimizing PHP Images](https://cloudinary.com/blog/compressing_resizing_and_optimizing_php_images)
+[Uploading Vue Files and Rich Media in Two Easy Steps](https://cloudinary.com/blog/uploading_vue_files_and_rich_media_in_two_easy_steps)
+[JavaScript File Upload in Two Simple Steps](https://cloudinary.com/blog/javascript_file_upload_in_two_simple_steps)
+[Ultimate HTML5 Video-Player Showdown: 12 Players Compared](https://cloudinary.com/blog/ultimate_html5_video_player_showdown_12_players_compared)
+[How to Upload Images in Angular](https://cloudinary.com/blog/how_to_upload_images_in_angular)
+[DAM for Developers: Asset Metadata](https://cloudinary.com/blog/dam_for_developers_asset_metadata)
 3[DAM for Developers: Advanced Search and Discovery](https://cloudinary.com/blog/dam_for_developers_advanced_search_and_discovery)
 3[Canvas Animation: Create HTML5 Animations with the <canvas> Element](https://cloudinary.com/blog/canvas_animation_create_html5_animations_with_the_canvas_element)
 3[DAM for Developers: Access Control](https://cloudinary.com/blog/dam_for_developers_access_control)

@@ -264,48 +264,90 @@
 
 ## Dev.to
 [A Code-First Approach to Managing Notification Workflows](https://dev.to/unicodeveloper/a-code-first-approach-to-managing-notification-workflows-4h2e)
+
 [How to build dev.to Community Digest with Novu](https://dev.to/unicodeveloper/how-to-build-devto-community-digest-with-novu-2k1e)
+
 [How to build dev.to In-App Notification System in 20 minutes](https://dev.to/unicodeveloper/how-to-build-devto-in-app-notification-system-in-20-minutes-2e3e)
+
 [Building an Investor List App with Novu and Supabase](https://dev.to/unicodeveloper/building-an-investor-list-app-with-novu-and-supabase-2g1e)
+
 [The Ultimate Guide to Laravel Reverb: Real-Time Notifications](https://dev.to/unicodeveloper/the-ultimate-guide-to-laravel-reverb-real-time-notifications-2b1e)
+
 [The Ultimate Guide to Laravel Reverb](https://dev.to/unicodeveloper/the-ultimate-guide-to-laravel-reverb-2b1e)
+
 [What's new in Novu 0.24?](https://dev.to/unicodeveloper/whats-new-in-novu-024-2b1e)
+
 [Implementing Internationalization in Apps: How to Translate Notifications](https://dev.to/unicodeveloper/implementing-internationalization-in-apps-how-to-translate-notifications-2b1e)
+
 [The Power of Community](https://dev.to/unicodeveloper/the-power-of-community-2b1e)
+
 [Translate your App's Notification content to different languages using i18n.](https://dev.to/unicodeveloper/translate-your-apps-notification-content-to-different-languages-using-i18n-2b1e)
-1[What's new in Novu 0.23?](https://dev.to/unicodeveloper/whats-new-in-novu-023-2b1e)
-1[What's new in Novu 0.22?](https://dev.to/unicodeveloper/whats-new-in-novu-022-2b1e)
-1[What's new in Novu 0.19?](https://dev.to/unicodeveloper/whats-new-in-novu-019-2b1e)
-1[What's new in Novu 0.18?](https://dev.to/unicodeveloper/whats-new-in-novu-018-2b1e)
-1[What's new in Novu 0.17.0?](https://dev.to/unicodeveloper/whats-new-in-novu-0170-2b1e)
-1[What's new in Novu 0.16.0?](https://dev.to/unicodeveloper/whats-new-in-novu-0160-2b1e)
-1[What's New in Novu 0.15.0?](https://dev.to/unicodeveloper/whats-new-in-novu-0150-2b1e)
-1[What's New in Novu 0.14.0?](https://dev.to/unicodeveloper/whats-new-in-novu-0140-2b1e)
-1[Celebrating Novu @ 20k Stars](https://dev.to/unicodeveloper/celebrating-novu-20k-stars-2b1e)
-20. [What's New in Novu 0.13.0?](https://dev.to/unicodeveloper/whats-new-in-novu-0130-2b1e)
-2[Resend - How to add an Email API Provider to Novu](https://dev.to/unicodeveloper/resend-how-to-add-an-email-api-provider-to-novu-2b1e)
-2[What's new in Novu 0.12.0](https://dev.to/unicodeveloper/whats-new-in-novu-0120-2b1e)
-2[Media Performance Optimization for Developers](https://dev.to/unicodeveloper/media-performance-optimization-for-developers-2b1e)
-2[Laravel Cloudinary v2 Release Update](https://dev.to/unicodeveloper/laravel-cloudinary-v2-release-update-2b1e)
-2[8 Video Transformations Developers Can Make With One Line Of Code](https://dev.to/unicodeveloper/8-video-transformations-developers-can-make-with-one-line-of-code-2b1e)
-2[Simple & Advanced Search in VS Code with Sourcegraph](https://dev.to/unicodeveloper/simple-advanced-search-in-vs-code-with-sourcegraph-2b1e)
-2[8 Sourcegraph Search Query Features You Should Know About](https://dev.to/unicodeveloper/8-sourcegraph-search-query-features-you-should-know-about-2b1e)
-2[15 Days Of Code Search](https://dev.to/unicodeveloper/15-days-of-code-search-2b1e)
-2[How to find log4j vulnerable dependencies quickly across your codebase](https://dev.to/unicodeveloper/how-to-find-log4j-vulnerable-dependencies-quickly-across-your-codebase-2b1e)
-30. [Making Your Video More Accessible](https://dev.to/unicodeveloper/making-your-video-more-accessible-2b1e)
-3[A Deep Dive Into Video Auto-Tagging](https://dev.to/unicodeveloper/a-deep-dive-into-video-auto-tagging-2b1e)
-3[How to use Search Contexts on Sourcegraph](https://dev.to/unicodeveloper/how-to-use-search-contexts-on-sourcegraph-2b1e)
-3[How to Learn React API & Concepts with Sourcegraph Code Search](https://dev.to/unicodeveloper/how-to-learn-react-api-concepts-with-sourcegraph-code-search-2b1e)
-3[Live Streaming As A Service](https://dev.to/unicodeveloper/live-streaming-as-a-service-2b1e)
-3[The Developer Advocate ToolKit: Software Tools You Need To Move Fast](https://dev.to/unicodeveloper/the-developer-advocate-toolkit-software-tools-you-need-to-move-fast-2b1e)
-3[Five Video Features Developers No Longer Need to Build From Scratch](https://dev.to/unicodeveloper/five-video-features-developers-no-longer-need-to-build-from-scratch-2b1e)
-3[15 Developer Tools to Make You Super Productive](https://dev.to/unicodeveloper/15-developer-tools-to-make-you-super-productive-2b1e)
-3[Sourcegraph Code Search - The Developers' Treasure Trove](https://dev.to/sourcegraph/sourcegraph-code-search-the-developers-treasure-trove-3ach)
-3[7 Majestic Days of Code Search](https://dev.to/unicodeveloper/7-days-of-code-search-4eao)
-40. [31 Days of March Media Madness](https://dev.to/unicodeveloper/31-days-of-march-media-madness-28cd)
-4[What Are You Asking For?](https://dev.to/unicodeveloper/what-are-you-asking-for-5dba)
-4[25 Days Of Media Magic - The Ambitious Sprint](https://dev.to/unicodeveloper/25-days-of-media-magic-the-ambitious-sprint-1m2m)
-4[Who is Speaking On Your Behalf?](https://dev.to/unicodeveloper/who-is-speaking-on-your-behalf-2c5e)
+
+[What's new in Novu 0.23?](https://dev.to/unicodeveloper/whats-new-in-novu-023-2b1e)
+
+[What's new in Novu 0.22?](https://dev.to/unicodeveloper/whats-new-in-novu-022-2b1e)
+
+[What's new in Novu 0.19?](https://dev.to/unicodeveloper/whats-new-in-novu-019-2b1e)
+
+[What's new in Novu 0.18?](https://dev.to/unicodeveloper/whats-new-in-novu-018-2b1e)
+
+[What's new in Novu 0.17.0?](https://dev.to/unicodeveloper/whats-new-in-novu-0170-2b1e)
+
+[What's new in Novu 0.16.0?](https://dev.to/unicodeveloper/whats-new-in-novu-0160-2b1e)
+
+[What's New in Novu 0.15.0?](https://dev.to/unicodeveloper/whats-new-in-novu-0150-2b1e)
+
+[What's New in Novu 0.14.0?](https://dev.to/unicodeveloper/whats-new-in-novu-0140-2b1e)
+
+[Celebrating Novu @ 20k Stars](https://dev.to/unicodeveloper/celebrating-novu-20k-stars-2b1e)
+
+[What's New in Novu 0.13.0?](https://dev.to/unicodeveloper/whats-new-in-novu-0130-2b1e)
+
+[Resend - How to add an Email API Provider to Novu](https://dev.to/unicodeveloper/resend-how-to-add-an-email-api-provider-to-novu-2b1e)
+
+[What's new in Novu 0.12.0](https://dev.to/unicodeveloper/whats-new-in-novu-0120-2b1e)
+
+[Media Performance Optimization for Developers](https://dev.to/unicodeveloper/media-performance-optimization-for-developers-2b1e)
+
+[Laravel Cloudinary v2 Release Update](https://dev.to/unicodeveloper/laravel-cloudinary-v2-release-update-2b1e)
+
+[8 Video Transformations Developers Can Make With One Line Of Code](https://dev.to/unicodeveloper/8-video-transformations-developers-can-make-with-one-line-of-code-2b1e)
+
+[Simple & Advanced Search in VS Code with Sourcegraph](https://dev.to/unicodeveloper/simple-advanced-search-in-vs-code-with-sourcegraph-2b1e)
+
+[8 Sourcegraph Search Query Features You Should Know About](https://dev.to/unicodeveloper/8-sourcegraph-search-query-features-you-should-know-about-2b1e)
+
+[15 Days Of Code Search](https://dev.to/unicodeveloper/15-days-of-code-search-2b1e)
+
+[How to find log4j vulnerable dependencies quickly across your codebase](https://dev.to/unicodeveloper/how-to-find-log4j-vulnerable-dependencies-quickly-across-your-codebase-2b1e)
+
+[Making Your Video More Accessible](https://dev.to/unicodeveloper/making-your-video-more-accessible-2b1e)
+
+[A Deep Dive Into Video Auto-Tagging](https://dev.to/unicodeveloper/a-deep-dive-into-video-auto-tagging-2b1e)
+
+[How to use Search Contexts on Sourcegraph](https://dev.to/unicodeveloper/how-to-use-search-contexts-on-sourcegraph-2b1e)
+
+[How to Learn React API & Concepts with Sourcegraph Code Search](https://dev.to/unicodeveloper/how-to-learn-react-api-concepts-with-sourcegraph-code-search-2b1e)
+
+[Live Streaming As A Service](https://dev.to/unicodeveloper/live-streaming-as-a-service-2b1e)
+
+[The Developer Advocate ToolKit: Software Tools You Need To Move Fast](https://dev.to/unicodeveloper/the-developer-advocate-toolkit-software-tools-you-need-to-move-fast-2b1e)
+
+[Five Video Features Developers No Longer Need to Build From Scratch](https://dev.to/unicodeveloper/five-video-features-developers-no-longer-need-to-build-from-scratch-2b1e)
+
+[15 Developer Tools to Make You Super Productive](https://dev.to/unicodeveloper/15-developer-tools-to-make-you-super-productive-2b1e)
+
+[Sourcegraph Code Search - The Developers' Treasure Trove](https://dev.to/sourcegraph/sourcegraph-code-search-the-developers-treasure-trove-3ach)
+
+[7 Majestic Days of Code Search](https://dev.to/unicodeveloper/7-days-of-code-search-4eao)
+
+[31 Days of March Media Madness](https://dev.to/unicodeveloper/31-days-of-march-media-madness-28cd)
+
+[What Are You Asking For?](https://dev.to/unicodeveloper/what-are-you-asking-for-5dba)
+
+[25 Days Of Media Magic - The Ambitious Sprint](https://dev.to/unicodeveloper/25-days-of-media-magic-the-ambitious-sprint-1m2m)
+
+[Who is Speaking On Your Behalf?](https://dev.to/unicodeveloper/who-is-speaking-on-your-behalf-2c5e)
 
 ## Goodheads.io (Defunct - Still trying to get them back up)
 [GET STARTED WITH ADONISJS; AN MVC FRAMEWORK FOR NODE.JS](https://goodheads.io/blog/get-started-with-adonisjs-an-mvc-framework-for-node-js)
@@ -342,75 +384,147 @@
 
 ## Auth0 
 [Building Ambitious Apps with MDX](https://auth0.com/blog/how-to-build-an-app-with-react-and-mdx/)
+
 [Secure GraphQL, React, and Apollo Apps with Auth0](https://auth0.com/blog/develop-modern-apps-with-react-graphql-apollo-and-add-authentication-2/)
+
 [Build Apps with GraphQL, React, and Apollo](https://auth0.com/blog/develop-modern-apps-with-react-graphql-apollo-and-add-authentication/)
+
 [Laravel 5.7 Release: What's New? 10 Features To Try](https://auth0.com/blog/laravel-5-7-release-what-is-new/)
+
 [React 16.3: What's New?](https://auth0.com/blog/whats-new-in-react-16-3/)
+
 [Google I/O 2018 Summary - Day 3](https://auth0.com/blog/googleio-summary-day-three/)
+
 [Google I/O 2018 Summary - Day 2](https://auth0.com/blog/googleio-summary-day-two/)
+
 [Google I/O 2018 Summary - Day 1](https://auth0.com/blog/googleio-summary-day-one/)
+
 [Angular 6 Release: What's New?](https://auth0.com/blog/whats-new-in-angular6/)
+
 [New Features for Developing AngularJS Applications - Part 2: Build An App](https://auth0.com/blog/developing-angularjs-apps-part-2/)
-1[New Features for Developing AngularJS Applications - Part 1: Component-Based Architecture](https://auth0.com/blog/new-features-for-developing-angularjs-applications-part-1/)
-1[React Router 4: A Practical Introduction](https://auth0.com/blog/react-router-4-practical-tutorial/)
-1[Beyond React 16: Time Slicing and Suspense API](https://auth0.com/blog/time-slice-suspense-react16/)
-1[Webpack 4.0 Release: What's New?](https://auth0.com/blog/webpack-4-release-what-is-new/)
-1[Laravel 5.6 Release: What's New?](https://auth0.com/blog/laravel-5-6-release-what-is-new/)
-1[Bootstrap 4.0 Release: What's New?](https://auth0.com/blog/whats-new-in-bootstrap4/)
-1[The Complete Guide To Deploying JavaScript Applications - Part 2: Single Page Applications, Logging, SSL](https://auth0.com/blog/deploying-javascript-apps-part-2/)
-1[The Complete Guide To Deploying JavaScript Applications - Part 1: Database, and API Deployment](https://auth0.com/blog/the-complete-guide-to-deploying-javascript-applications-part-1/)
-1[Developing RESTful APIs with Hapi](https://auth0.com/blog/developing-restful-apis-with-hapijs/)
-20. [Developing Real-time Apps with Meteor](https://auth0.com/blog/developing-real-time-apps-with-meteor/)
-2[Angular 5 Release: What's New?](https://auth0.com/blog/whats-new-in-angular5/)
-2[React 16 Release: What's New?](https://auth0.com/blog/whats-new-in-react16/)
-2[Chrome Developer Summit 2017 Summary - Day 2](https://auth0.com/blog/chromedevsummit-summary-day-two/)
-2[Chrome Developer Summit 2017 Summary - Day 1](https://auth0.com/blog/chromedevsummit-summary-day-one/)
-2[Automate Your Development Workflow With GulpJS](https://auth0.com/blog/automate-your-development-workflow-with-gulpjs/)
-2[Developing Web Apps and RESTful APIs with KeystoneJS](https://auth0.com/blog/developing-web-apps-and-restful-apis-with-keystonejs/)
-2[Next.js 3.0 Release: What's New?](https://auth0.com/blog/nextjs-3-release-what-is-new/)
-2[Building an app with Nette and adding authentication](https://auth0.com/blog/building-an-app-with-Nette-and-adding-authentication/)
-2[Adding FullContact to your Auth Process For Profile Enhancement](https://auth0.com/blog/adding-fullcontact-to-your-auth-process-for-profile-enhancement/)
-30. [Developing RESTful APIs with Loopback](https://auth0.com/blog/developing-restful-apis-with-loopback/)
-3[BackboneJS: Getting Started](https://auth0.com/blog/backbonejs-getting-started/)
-3[Ionic Framework: Getting Started](https://auth0.com/blog/ionic-framework-how-to-get-started/)
-3[Build a Rotten Tomatoes Clone with GraphQL and Auth0](https://auth0.com/blog/build-a-rottentomatoes-clone-with-graphql-and-auth0/)
-3[Create a Drupal Site and Add Authentication with Auth0](https://auth0.com/blog/creating-your-first-drupal-site-and-adding-authentication/)
-3[CakeFest 2017 Summary - Day Two](https://auth0.com/blog/cakefest-summary-day-two/)
-3[CakeFest 2017 Summary - Day One](https://auth0.com/blog/cakefest-summary-day-1/)
-3[Node 8 and npm@5 release: What's new?](https://auth0.com/blog/whats-new-in-node8-and-npm5/)
-3[Preact Authentication Tutorial](https://auth0.com/blog/preact-authentication-tutorial/)
-3[Creating and securing your first CakePHP app](https://auth0.com/blog/creating-your-first-cakephp-app/)
-40. [SMS Passwordless Authentication](https://auth0.com/blog/sms-passwordless-authentication/)
-4[EmberJS Authentication Tutorial](https://auth0.com/blog/emberjs-authentication-tutorial/)
-4[Google Blocks OAuth Requests Made Via Embedded Browsers](https://auth0.com/blog/google-blocks-oauth-requests-from-embedded-browsers/)
-4[The Ultimate Guide To Deploying Your PHP Applications](https://auth0.com/blog/the-ultimate-guide-to-deploying-php-applications/)
-4[All You Need To Know About The Google Docs Phishing Attack](https://auth0.com/blog/all-you-need-to-know-about-the-google-docs-phishing-attack/)
-4[Build Better Universal JavaScript Apps with Next.js 2.0](https://auth0.com/blog/build-better-universal-apps-with-nextjs2/)
-4[Brute Forcing HS256 is Possible: The Importance of Using Strong Keys in Signing JWTs](https://auth0.com/blog/brute-forcing-hs256-is-possible-the-importance-of-using-strong-keys-to-sign-jwts/)
-4[Web Components: How To Craft Your Own Custom Components](https://auth0.com/blog/web-components-how-to-craft-your-own-custom-components/)
-4[Announcing the Guardian Whitelabel SDK](https://auth0.com/blog/announcing-guardian-whitelabel-sdk/)
-4[Migrating a PHP 5 App to PHP 7 (Tools & Implementation) - Part 3](https://auth0.com/blog/migrating-a-php5-app-to-7-part-three/)
-50. [Migrating a PHP 5 App to PHP 7 (Rundown of PHP 7 Features) - Part 2](https://auth0.com/blog/migrating-a-php5-app-to-php7-part-two/)
-5[Customizing create-react-app: How to Make Your Own Template](https://auth0.com/blog/how-to-configure-create-react-app/)
-5[Migrating a PHP 5 App to PHP 7 (Development Environment) - Part 1](https://auth0.com/blog/migrating-a-php5-app-to-php7-part-one/)
-5[Introduction to Progressive Web Apps (Push Notifications) - Part 3](https://auth0.com/blog/introduction-to-progressive-web-apps-push-notifications-part-3/)
-5[Personal Information Security Guide for Family and Friends](https://auth0.com/blog/personal-information-security-identity-guide/) 
-5[Introduction to Progressive Web Apps (Instant Loading) - Part 2](https://auth0.com/blog/introduction-to-progressive-web-apps-instant-loading-part-2/)
-5[Introduction to Progressive Web Apps (Offline First) - Part 1](https://auth0.com/blog/introduction-to-progressive-apps-part-one/)
-5[What are the different ways to implement Multifactor Authentication?](https://auth0.com/blog/different-ways-to-implement-multifactor/)
-5[How To Stay Safe While Shopping Online For Cyber Monday](https://auth0.com/blog/how-to-stay-safe-while-shopping-online-for-cyber-monday/)
-5[Chrome Developer Summit 2016 - Summary](https://auth0.com/blog/chromedevsummit-summary/)
-60. [How was the biggest DDoS attack in Internet history perpetrated?](https://auth0.com/blog/how-the-biggest-attack-in-internet-was-perpetrated/)
-6[5 things you can do with Yarn](https://auth0.com/blog/five-things-you-can-do-with-yarn/)
-6[Creating your first app with AdonisJs and adding authentication](https://auth0.com/blog/creating-your-first-app-with-adonisj-and-adding-authentication/)
-6[Aurelia 1.0: How to build a simple secured application](https://auth0.com/blog/aurelia-how-to-build-a-simple-secured-application/)
-6[Bootstrapping a React project](https://auth0.com/blog/bootstrapping-a-react-project/)
-6[Laracon 2016 Summary - Day Three](https://auth0.com/blog/laracon-summary-day-3/)
-6[Laracon 2016 Summary - Day Two](https://auth0.com/blog/laracon-summary-day-2/)
-6[Laracon 2016 Summary - Day One](https://auth0.com/blog/laracon-summary-day-1/)
-6[Avoiding Password Reuse Attacks with Auth0](https://auth0.com/blog/avoiding-password-reuse-attacks/)
-6[Adding Authentication to a Native Desktop C# App with JWTs](https://auth0.com/blog/add-auth-to-native-desktop-csharp-apps-with-jwt/)
-70. [SAML 認証はどのように機能するか？](https://auth0.com/blog/jp-how-saml-authentication-works/) 
-7[SSO ログイン：主な利点と実装](https://auth0.com/blog/jp-sso-login-key-benefits-and-implementation/)
-7[Developing RESTful APIs with Lumen (A PHP Micro-framework)](https://auth0.com/blog/developing-restful-apis-with-lumen/)
-7[Creating Your First Laravel App and Adding Authentication](https://auth0.com/blog/creating-your-first-laravel-app-and-adding-authentication/)
+
+[New Features for Developing AngularJS Applications - Part 1: Component-Based Architecture](https://auth0.com/blog/new-features-for-developing-angularjs-applications-part-1/)
+
+[React Router 4: A Practical Introduction](https://auth0.com/blog/react-router-4-practical-tutorial/)
+
+[Beyond React 16: Time Slicing and Suspense API](https://auth0.com/blog/time-slice-suspense-react16/)
+
+[Webpack 4.0 Release: What's New?](https://auth0.com/blog/webpack-4-release-what-is-new/)
+
+[Laravel 5.6 Release: What's New?](https://auth0.com/blog/laravel-5-6-release-what-is-new/)
+
+[Bootstrap 4.0 Release: What's New?](https://auth0.com/blog/whats-new-in-bootstrap4/)
+
+[The Complete Guide To Deploying JavaScript Applications - Part 2: Single Page Applications, Logging, SSL](https://auth0.com/blog/deploying-javascript-apps-part-2/)
+
+[The Complete Guide To Deploying JavaScript Applications - Part 1: Database, and API Deployment](https://auth0.com/blog/the-complete-guide-to-deploying-javascript-applications-part-1/)
+
+[Developing RESTful APIs with Hapi](https://auth0.com/blog/developing-restful-apis-with-hapijs/)
+
+[Developing Real-time Apps with Meteor](https://auth0.com/blog/developing-real-time-apps-with-meteor/)
+
+[Angular 5 Release: What's New?](https://auth0.com/blog/whats-new-in-angular5/)
+
+[React 16 Release: What's New?](https://auth0.com/blog/whats-new-in-react16/)
+
+[Chrome Developer Summit 2017 Summary - Day 2](https://auth0.com/blog/chromedevsummit-summary-day-two/)
+
+[Chrome Developer Summit 2017 Summary - Day 1](https://auth0.com/blog/chromedevsummit-summary-day-one/)
+
+[Automate Your Development Workflow With GulpJS](https://auth0.com/blog/automate-your-development-workflow-with-gulpjs/)
+
+[Developing Web Apps and RESTful APIs with KeystoneJS](https://auth0.com/blog/developing-web-apps-and-restful-apis-with-keystonejs/)
+
+[Next.js 3.0 Release: What's New?](https://auth0.com/blog/nextjs-3-release-what-is-new/)
+
+[Building an app with Nette and adding authentication](https://auth0.com/blog/building-an-app-with-Nette-and-adding-authentication/)
+
+[Adding FullContact to your Auth Process For Profile Enhancement](https://auth0.com/blog/adding-fullcontact-to-your-auth-process-for-profile-enhancement/)
+
+[Developing RESTful APIs with Loopback](https://auth0.com/blog/developing-restful-apis-with-loopback/)
+
+[BackboneJS: Getting Started](https://auth0.com/blog/backbonejs-getting-started/)
+
+[Ionic Framework: Getting Started](https://auth0.com/blog/ionic-framework-how-to-get-started/)
+
+[Build a Rotten Tomatoes Clone with GraphQL and Auth0](https://auth0.com/blog/build-a-rottentomatoes-clone-with-graphql-and-auth0/)
+
+[Create a Drupal Site and Add Authentication with Auth0](https://auth0.com/blog/creating-your-first-drupal-site-and-adding-authentication/)
+
+[CakeFest 2017 Summary - Day Two](https://auth0.com/blog/cakefest-summary-day-two/)
+
+[CakeFest 2017 Summary - Day One](https://auth0.com/blog/cakefest-summary-day-1/)
+
+[Node 8 and npm@5 release: What's new?](https://auth0.com/blog/whats-new-in-node8-and-npm5/)
+
+[Preact Authentication Tutorial](https://auth0.com/blog/preact-authentication-tutorial/)
+
+[Creating and securing your first CakePHP app](https://auth0.com/blog/creating-your-first-cakephp-app/)
+
+[SMS Passwordless Authentication](https://auth0.com/blog/sms-passwordless-authentication/)
+
+[EmberJS Authentication Tutorial](https://auth0.com/blog/emberjs-authentication-tutorial/)
+
+[Google Blocks OAuth Requests Made Via Embedded Browsers](https://auth0.com/blog/google-blocks-oauth-requests-from-embedded-browsers/)
+
+[The Ultimate Guide To Deploying Your PHP Applications](https://auth0.com/blog/the-ultimate-guide-to-deploying-php-applications/)
+
+[All You Need To Know About The Google Docs Phishing Attack](https://auth0.com/blog/all-you-need-to-know-about-the-google-docs-phishing-attack/)
+
+[Build Better Universal JavaScript Apps with Next.js 2.0](https://auth0.com/blog/build-better-universal-apps-with-nextjs2/)
+
+[Brute Forcing HS256 is Possible: The Importance of Using Strong Keys in Signing JWTs](https://auth0.com/blog/brute-forcing-hs256-is-possible-the-importance-of-using-strong-keys-to-sign-jwts/)
+
+[Web Components: How To Craft Your Own Custom Components](https://auth0.com/blog/web-components-how-to-craft-your-own-custom-components/)
+
+[Announcing the Guardian Whitelabel SDK](https://auth0.com/blog/announcing-guardian-whitelabel-sdk/)
+
+[Migrating a PHP 5 App to PHP 7 (Tools & Implementation) - Part 3](https://auth0.com/blog/migrating-a-php5-app-to-7-part-three/)
+
+[Migrating a PHP 5 App to PHP 7 (Rundown of PHP 7 Features) - Part 2](https://auth0.com/blog/migrating-a-php5-app-to-php7-part-two/)
+
+[Customizing create-react-app: How to Make Your Own Template](https://auth0.com/blog/how-to-configure-create-react-app/)
+
+[Migrating a PHP 5 App to PHP 7 (Development Environment) - Part 1](https://auth0.com/blog/migrating-a-php5-app-to-php7-part-one/)
+
+[Introduction to Progressive Web Apps (Push Notifications) - Part 3](https://auth0.com/blog/introduction-to-progressive-web-apps-push-notifications-part-3/)
+
+[Personal Information Security Guide for Family and Friends](https://auth0.com/blog/personal-information-security-identity-guide/)
+
+[Introduction to Progressive Web Apps (Instant Loading) - Part 2](https://auth0.com/blog/introduction-to-progressive-web-apps-instant-loading-part-2/)
+
+[Introduction to Progressive Web Apps (Offline First) - Part 1](https://auth0.com/blog/introduction-to-progressive-apps-part-one/)
+
+[What are the different ways to implement Multifactor Authentication?](https://auth0.com/blog/different-ways-to-implement-multifactor/)
+
+[How To Stay Safe While Shopping Online For Cyber Monday](https://auth0.com/blog/how-to-stay-safe-while-shopping-online-for-cyber-monday/)
+
+[Chrome Developer Summit 2016 - Summary](https://auth0.com/blog/chromedevsummit-summary/)
+
+[How was the biggest DDoS attack in Internet history perpetrated?](https://auth0.com/blog/how-the-biggest-attack-in-internet-was-perpetrated/)
+
+[5 things you can do with Yarn](https://auth0.com/blog/five-things-you-can-do-with-yarn/)
+
+[Creating your first app with AdonisJs and adding authentication](https://auth0.com/blog/creating-your-first-app-with-adonisj-and-adding-authentication/)
+
+[Aurelia 1.0: How to build a simple secured application](https://auth0.com/blog/aurelia-how-to-build-a-simple-secured-application/)
+
+[Bootstrapping a React project](https://auth0.com/blog/bootstrapping-a-react-project/)
+
+[Laracon 2016 Summary - Day Three](https://auth0.com/blog/laracon-summary-day-3/)
+
+[Laracon 2016 Summary - Day Two](https://auth0.com/blog/laracon-summary-day-2/)
+
+[Laracon 2016 Summary - Day One](https://auth0.com/blog/laracon-summary-day-1/)
+
+[Avoiding Password Reuse Attacks with Auth0](https://auth0.com/blog/avoiding-password-reuse-attacks/)
+
+[Adding Authentication to a Native Desktop C# App with JWTs](https://auth0.com/blog/add-auth-to-native-desktop-csharp-apps-with-jwt/)
+
+[SAML 認証はどのように機能するか？](https://auth0.com/blog/jp-how-saml-authentication-works/)
+
+[SSO ログイン：主な利点と実装](https://auth0.com/blog/jp-sso-login-key-benefits-and-implementation/)
+
+[Developing RESTful APIs with Lumen (A PHP Micro-framework)](https://auth0.com/blog/developing-restful-apis-with-lumen/)
+
+[Creating Your First Laravel App and Adding Authentication](https://auth0.com/blog/creating-your-first-laravel-app-and-adding-authentication/)

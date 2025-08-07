@@ -174,45 +174,45 @@
 
 [How to Build an Enhanced Gravatar Service, Part 1](https://cloudinary.com/blog/how_to_build_an_enhanced_gravatar_service_part_1)
 
-[Associating Media Files with Laravel's Eloquent Models](https://cloudinary.com/blog/associating_media_files_with_laravels_eloquent_models)
+[Associating Media Files with Laravel's Eloquent Models](https://cloudinary.com/blog/associating_media_files_with_laravel_s_eloquent_models)
 
-[Adding a 360-Degree Product Viewer to Your E-Commerce Site with Cloudinary](https://cloudinary.com/blog/adding_a_360_degree_product_viewer_to_your_e_commerce_site_with_cloudinary)
+[Adding a 360-Degree Product Viewer to Your E-Commerce Site with Cloudinary](https://cloudinary.com/blog/add_the_360_product_viewer_to_your_commerce_site_with_cloudinary)
 
 [Compressing, Resizing, and Optimizing Images in Laravel](https://cloudinary.com/blog/compressing_resizing_and_optimizing_images_in_laravel)
 
-[The Pros and Cons of JPEG 2000 and Other Common Image Formats](https://cloudinary.com/blog/the_pros_and_cons_of_jpeg_2000_and_other_common_image_formats)
+[The Pros and Cons of JPEG 2000 and Other Common Image Formats](https://cloudinary.com/blog/the_great_jpeg_2000_debate_analyzing_the_pros_and_cons_to_widespread_adoption)
 
 [Automating File Upload and Sharing](https://cloudinary.com/blog/automating_file_upload_and_sharing)
 
 [Node.js File Upload to a Local Server or to the Cloud](https://cloudinary.com/blog/node_js_file_upload_to_a_local_server_or_to_the_cloud)
 
-[Uploading PHP Files and Rich Media the Easy Way](https://cloudinary.com/blog/uploading_php_files_and_rich_media_the_easy_way)
+[Uploading PHP Files and Rich Media the Easy Way](https://cloudinary.com/blog/file_upload_with_php)
 
 [Laravel File Upload to a Local Server or to the Cloud](https://cloudinary.com/blog/laravel_file_upload_to_a_local_server_or_to_the_cloud)
 
-[Introducing Cloudinary's New Laravel SDK](https://cloudinary.com/blog/introducing_cloudinarys_new_laravel_sdk)
+[Introducing Cloudinary's New Laravel SDK](https://cloudinary.com/blog/introducing_cloudinary_s_new_laravel_sdk)
 
-[Python Image Processing, Compression, and Resizing](https://cloudinary.com/blog/python_image_processing_compression_and_resizing)
+[Python Image Processing, Compression, and Resizing](https://cloudinary.com/blog/image_optimization_in_python)
 
-[Compressing, Resizing, and Optimizing PHP Images](https://cloudinary.com/blog/compressing_resizing_and_optimizing_php_images)
+[Compressing, Resizing, and Optimizing PHP Images](https://cloudinary.com/blog/image_optimization_in_php)
 
 [Uploading Vue Files and Rich Media in Two Easy Steps](https://cloudinary.com/blog/uploading_vue_files_and_rich_media_in_two_easy_steps)
 
-[JavaScript File Upload in Two Simple Steps](https://cloudinary.com/blog/javascript_file_upload_in_two_simple_steps)
+[JavaScript File Upload in Two Simple Steps](https://cloudinary.com/blog/javascript_file_upload_to_cloudinary)
 
 [Ultimate HTML5 Video-Player Showdown: 12 Players Compared](https://cloudinary.com/blog/ultimate_html5_video_player_showdown_12_players_compared)
 
-[How to Upload Images in Angular](https://cloudinary.com/blog/how_to_upload_images_in_angular)
+[How to Upload Images in Angular](https://cloudinary.com/blog/angular_image_upload)
 
 [DAM for Developers: Asset Metadata](https://cloudinary.com/blog/dam_for_developers_asset_metadata)
 
 [DAM for Developers: Advanced Search and Discovery](https://cloudinary.com/blog/dam_for_developers_advanced_search_and_discovery)
 
-[Canvas Animation: Create HTML5 Animations with the <canvas> Element](https://cloudinary.com/blog/canvas_animation_create_html5_animations_with_the_canvas_element)
+[Canvas Animation: Create HTML5 Animations with the <canvas> Element](https://cloudinary.com/blog/creating_html5_animations)
 
 [DAM for Developers: Access Control](https://cloudinary.com/blog/dam_for_developers_access_control)
 
-[Optimizing Images in Ruby](https://cloudinary.com/blog/optimizing_images_in_ruby)
+[Optimizing Images in Ruby](https://cloudinary.com/blog/image_optimization_in_ruby)
 
 [DAM for Developers: AI-Based Content Analysis](https://cloudinary.com/blog/dam_for_developers_ai_based_content_analysis)
 
@@ -244,11 +244,11 @@
 
 [Compression of Image Files with Only One Line of Code](https://cloudinary.com/blog/compression_of_image_files_with_only_one_line_of_code)
 
-[How to Compress Video Size Automatically with One Line of Code](https://cloudinary.com/blog/how_to_compress_video_size_automatically_with_one_line_of_code)
+[How to Compress Video Size Automatically with One Line of Code](https://cloudinary.com/blog/how_to_automate_compression_of_video_files_with_one_line_of_code)
 
 [Getting Started with React Native: Part 1](https://cloudinary.com/blog/getting_started_with_react_native_part_1)
 
-[Better Search Ranking Through Image Quality Improvement](https://cloudinary.com/blog/better_search_ranking_through_image_quality_improvement)
+[Better Search Ranking Through Image Quality Improvement](https://cloudinary.com/blog/engineering_better_google_mobile_search_ranking_through_image_optimization)
 
 [ReactNYC: Building Modern Media Experiences in React Apps](https://cloudinary.com/blog/reactnyc_building_modern_media_experiences_in_react_apps)
 
@@ -258,9 +258,9 @@
 
 [Build a Miniflix in 10 Minutes](https://cloudinary.com/blog/build_a_miniflix_in_10_minutes)
 
-[Chatbot Platform for Image Transformation](https://cloudinary.com/blog/chatbot_platform_for_image_transformation)
+[Chatbot Platform for Image Transformation](https://cloudinary.com/blog/chatbot_for_image_manipulation)
 
-[Image Optimization for WordPress](https://cloudinary.com/blog/image_optimization_for_wordpress)
+[Image Optimization for WordPress](https://cloudinary.com/blog/image_optimization_in_wordpress)
 
 ## Dev.to
 [A Code-First Approach to Managing Notification Workflows](https://dev.to/unicodeveloper/a-code-first-approach-to-managing-notification-workflows-4h2e)
